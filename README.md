@@ -1,2 +1,2 @@
 # PDf-to-Audio-converter
-PDf to Audio converter Python mini project
+This is python mini project which convert PDF file into Audio.
